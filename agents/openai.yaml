@@ -1,0 +1,4 @@
+interface:
+  display_name: "乐曲深度分析"
+  short_description: "优先分析流行爵士摇滚电子并兼顾古典与和弦试听音频生成"
+  default_prompt: "使用 $analyze-music 按对应子流派分析这首作品，并说明曲式、和声、groove、配器与制作。"
